@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: admins
+  description: Los admins
+spec:
+  type: team
+  children: [backstage, other]
+  members: [ManuFernandez03]
