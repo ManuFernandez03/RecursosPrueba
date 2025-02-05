@@ -5,5 +5,5 @@ metadata:
   description: Los admins
 spec:
   type: team
-  children: [backstage, other]
+  children: []
   members: [ManuFernandez03]
